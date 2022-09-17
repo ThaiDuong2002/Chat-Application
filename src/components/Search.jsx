@@ -100,5 +100,3 @@ const Search = () => {
 };
 
 export default Search;
-
-//1:34:31
